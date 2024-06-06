@@ -9,7 +9,7 @@ function App() {
         <div>
             <NavTopBar/>
             <LeftNavigation/>
-            <div className="fixed top-12 left-48 right-0">
+            <div className="fixed top-8 left-56 right-0">
                 <Editor/>
             </div>
         </div>

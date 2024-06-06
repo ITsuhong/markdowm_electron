@@ -85,3 +85,8 @@ button:focus-visible {
     cursor: pointer;
     -webkit-app-region: no-drag;
 }
+
+.md-editor {
+    border: none !important;
+
+}
